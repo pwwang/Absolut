@@ -1,0 +1,8 @@
+/src/bin/Absolut
+/src/bin/*.o
+/src/bin/1CZ8*
+/src/bin/HRF1*
+/src/bin/Makefile
+/src/bin/moc_pdb.cpp
+/src/bin/moc_predefs.h
+/src/bin/ui_pdb.h
